@@ -10,7 +10,6 @@ from simsopt._core.optimizable import Optimizable
 from periodic_field_line import periodic_field_line
 from tangent_map import tangent_map
 from pyoculus.problems import CartesianBfield
-from poincareplot import poincareF
 import matplotlib.pyplot as plt
 import numpy as np
 from numpy import cos, sin
