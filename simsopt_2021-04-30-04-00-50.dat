@@ -1,0 +1,6 @@
+Problem type:
+least_squares
+nparams:
+1
+function_evaluation,seconds,x(0),objective_function
+     0,  4.8229e+01, -1.0000000000000000e+04,  7.0783987589889072e+00
